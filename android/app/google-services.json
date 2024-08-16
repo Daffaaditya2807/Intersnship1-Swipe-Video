@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086811319426",
+    "firebase_url": "https://intership-test1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "intership-test1",
+    "storage_bucket": "intership-test1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086811319426:android:c456c2a6ef837b59f6589b",
+        "android_client_info": {
+          "package_name": "com.example.swipe_vidio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086811319426-k8aemeb84khasgtjce534ahag0pj26e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-DEUqHemHyufUQbes8fiFxNqgt6B5npA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086811319426-k8aemeb84khasgtjce534ahag0pj26e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
